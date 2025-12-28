@@ -7,6 +7,7 @@ I will be writing my own personal website in the open.
 - Runtime: Bun
 - Framework: Astro
 
+## Features
 ### To be added
 - landing page
 - chatbot larping as me
