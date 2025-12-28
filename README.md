@@ -1,4 +1,4 @@
-#samreaves.app
+# samreaves.app
 
 ## Welcome to my personal property at the corner of the Internet
 I will be writing my own personal website in the open.
